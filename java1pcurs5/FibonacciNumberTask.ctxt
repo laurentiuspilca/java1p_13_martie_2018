@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FibonacciNumberTask
+comment1.params=k
+comment1.target=FibonacciNumberTask(int)
+comment2.params=
+comment2.target=java.lang.Integer\ compute()
+numComments=3
