@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=nume\ culoare
+comment1.target=Pisica(java.lang.String,\ java.lang.String)
+comment2.params=nume
+comment2.target=void\ setNume(java.lang.String)
+comment3.params=culoare
+comment3.target=void\ setCuloare(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNume()
+comment5.params=
+comment5.target=java.lang.String\ getCuloare()
+numComments=6
